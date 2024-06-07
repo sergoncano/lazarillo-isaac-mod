@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>El Lazarillo De Tormes</name>
+    <directory>el lazarillo de tormes</directory>
+    <id>3152346168</id>
+    <description>This mod adds the playable character "El Lazarillo de Tormes", from the spanish novel "La vida de Lazarillo de Tormes y de sus fortunas y adversidades" (1554).
+
+[h3] This mod requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3127536138]REPENTOGON[/url] to work. [/h3]
+
+El Lazarillo has the following in-game abilities:
+[spoiler]·He can steal from beggars(not devil ones) and bums, raising his angel chance by a small amount each time he does so and getting the corresponding pickup to the beggar he is stealing from. There is a small chance of him getting hit by the beggar in every steal attempt.(Referencing how he steal from a blind beggar in the novel to get beaten up later for it.)
+
+·He can also steal one item per shop. However, doing so will count as taking a devil deal towards angel room chances. Furthermore, El Lazarillo can only take one devil deal per room.
+
+·He can open mega chests with a single key. (In reference to when he steal from a cleric's chest, hiding the key for it in his mouth while he sleeps.)
+[/spoiler]
+
+·I've also coded a small birthright effect, but I won't be spoiling it.</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Player Characters"/>
+</metadata>

@@ -1,0 +1,11 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Lazaro"
+        skin="character_lazaro.png"
+        nameimage="playername_lazaro.png"
+        hp="4"
+        portrait="playerportrait_lazaro.png"
+        skinColor="-1"
+        birthright="Don't get caught"
+        modcostume="1"
+    />
+</players>
